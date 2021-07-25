@@ -1,0 +1,13 @@
+.btn {
+    font-weight: 600;
+    border: none;
+    border-radius: 1.0rem;
+    margin: 5px;
+    padding: 10px 30px;
+  }
+  .card .title{
+      text-decoration: none !important;
+  }
+  .card:hover{
+     background-color: rgb(206, 230, 240);
+  }
