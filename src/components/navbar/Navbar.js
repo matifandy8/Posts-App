@@ -36,16 +36,6 @@ function Navbar() {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/update">
-              <Link
-                style={{ color: "black", textDecoration: "none" }}
-                to="/update"
-              >
-                Update
-              </Link>
-            </a>
-          </li>
-          <li className="nav-item">
             <button
               className="logout__btn btn btn-secondary"
               onClick={(e) => logout(e)}
